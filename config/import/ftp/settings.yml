@@ -1,0 +1,8 @@
+download:
+  ftp:
+    host: '127.0.0.1'
+    username: 'thinhvu'
+    password: '123456'
+    dir: data_test_dino
+encoding: sjis
+linefeed: CRLF
