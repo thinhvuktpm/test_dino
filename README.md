@@ -41,7 +41,7 @@ Things you may want to cover:
   ```
   {
 	"match_code": "tournament_9_ball",
-  	"player_name": "Douglas"
+	"player_name": "Douglas"
   }
   ```
 - /api/v1/players/infor_player
