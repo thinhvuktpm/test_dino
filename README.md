@@ -9,7 +9,7 @@ Things you may want to cover:
   2.4.2
 * System dependencies
   sidekiq, ftp,...
-* Configuration
+* Configuration FTP
   ```
   FTP:
   download:
