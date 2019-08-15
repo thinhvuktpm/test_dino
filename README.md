@@ -37,7 +37,7 @@ Things you may want to cover:
   ```
 - /api/v1/tournaments/search
   Method: GET
-  use param:
+  Use param:
   ```
   {
 	"match_code": "tournament_9_ball",
@@ -45,7 +45,7 @@ Things you may want to cover:
   }
   ```
 - /api/v1/players/infor_player
-  Method: GET
+  Method: GET Use params
    ```
   {
   	"player_name": "Douglas"
